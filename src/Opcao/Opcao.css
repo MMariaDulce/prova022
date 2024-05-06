@@ -1,0 +1,9 @@
+.modal {
+    width: 49px;
+    height: 45px;
+    border: none;
+    border-radius: 48px;
+    background-color: white;
+    color: white;
+    font-weight: 700;
+}
